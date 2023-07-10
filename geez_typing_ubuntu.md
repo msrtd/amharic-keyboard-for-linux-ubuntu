@@ -3,10 +3,12 @@
 ## Installing ibus-m17n
 
 1. Open a terminal and update the package lists:
+
 sudo apt update
 
 
 2. Install ibus-m17n:
+
 sudo apt install ibus-m17n
 
 
